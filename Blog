@@ -1,0 +1,31 @@
+void main() {
+  var tiere = <String>{"Katze", "Hund", "Elefant"};
+  print(tiere); //{Katze, Hund, Elefant}
+}
+
+var alter = {
+  "Tony" : 27,
+  "Kai" : 18,
+  "Leonie" : 20,
+};
+
+print(alter); //{Tony: 27, Kai: 18, Leonie: 20}
+
+var alter = {
+  "Tony" : 27,
+  "Kai" : 18,
+  "Leonie" : 20,
+};
+print (alter.length); //4
+print (alter.containsKey("Kai")); //true
+print(alter); //{Tony: 27, Kai: 18, Leonie: 20}
+
+
+
+var list_name = ["wert1","wert2"];
+  
+List <datentyp> list_name = [element1, element2];
+  
+  
+  
+
